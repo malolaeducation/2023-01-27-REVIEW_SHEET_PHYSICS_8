@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="E11EBAF6-817E-4953-8277-29DCED0F9124" version="0">
+	<info>
+		<title>2023-01-27-REVIEW_SHEET_PHYSICS_8</title>
+		<description/>
+	</info>
+	<files index="id23" thumbnail="id19" totalSize="2294739">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/html5-unsupported.html</file>
+		<file id="id9">data/html5.png</file>
+		<file id="id10">data/images/img-0fe341ef28105436dcd1862d265753a4b3435ce4.png</file>
+		<file id="id11">data/images/img-262add725d1e60e8a42496793ece7fe93dbe2067.jpg</file>
+		<file id="id12">data/images/img-758ecbd919485f2c309c176546a628a29ee351e1.png</file>
+		<file id="id13">data/images/img-7ffab5bcbfba484fa79679fd6df1843f220dce78.jpg</file>
+		<file id="id14">data/images/img-a0afc32ec01619ed981374a4f7375d35dbed3919.jpg</file>
+		<file id="id15">data/images/img-dcabc4afcfec4283a67e4c4e5a600aa4903dff4b.jpg</file>
+		<file id="id16">data/images/img-e921543476b4d9a178091972f8433d1c7ae06954.jpg</file>
+		<file id="id17">data/ismplayer/app_store2x.png</file>
+		<file id="id18">data/ismplayer/play.svg</file>
+		<file id="id19">data/ismplayer/preview.png</file>
+		<file id="id20">data/ismplayer/style.css</file>
+		<file id="id21">data/ismplayer/style_mini.css</file>
+		<file id="id22">data/player.js</file>
+		<file id="id23">index.html</file>
+		<file id="id24">ismplayer.html</file>
+		<file id="id25">preview.png</file>
+	</files>
+</presentation>
+
